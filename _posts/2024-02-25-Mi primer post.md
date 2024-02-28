@@ -1,7 +1,7 @@
 ---
 title: Mi primer post 
 date: 2024-02-27
-categories: [Genereal, Saludos]
+categories: [General, Saludos]
 tags: [Programacion, Software]
 ---
 
